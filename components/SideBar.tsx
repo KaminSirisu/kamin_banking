@@ -50,7 +50,10 @@ const SideBar = ({user }: SiderbarProps) => {
                     </Link>
                 )
             })}
+
+            USER
         </nav>
+        FOOTER
     </section>
   )
 }
